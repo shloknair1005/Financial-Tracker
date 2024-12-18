@@ -1,2 +1,2 @@
 # Financial-Tracker
-Hey! This is a finance tracker which keeps track of your spendings as well as gives spending analysis at particular intervals. It also has an inbuilt calculator to help cross check or use while using the application itself. 
+Hey! This is a finance tracker which keeps track of your spendings as well as gives spending analysis at particular intervals. It also has an inbuilt calculator to help cross check or use while using the application itself. It creates a database that saves all of the expenses in the backend for backup as well as the transactions are also displayed in the frontend. The analysis is visually represented so as to easily compare the spending between two intervals. Feel free to drop any suggestions I can work on.
